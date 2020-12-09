@@ -29,3 +29,7 @@ When it's cold outside, I make <br><br></br> noises.
 ### Lucidchart
 
 <div class="lucidchart"><iframe allowfullscreen frameborder="0" style="width:100%; height:720px" src="https://www.lucidchart.com/documents/embeddedchart/9d139e7f-df8a-47d7-9cea-df594dd8ec0e" id="83esIy9NlTrX"></iframe><a href="https://www.lucidchart.com/documents/view/9d139e7f-df8a-47d7-9cea-df594dd8ec0e" target="_blank"><center>diagram source</center></div>
+
+### Images paths
+
+![alt](../assets/link.png)
